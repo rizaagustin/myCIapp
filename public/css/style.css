@@ -1,0 +1,8 @@
+.sampul {
+  width: 50px;
+}
+
+/* * apapun yang ada di table, tr, */
+table > tbody > tr > * {
+  vertical-align: middle;
+}
